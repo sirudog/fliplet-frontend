@@ -6,4 +6,7 @@ To start the app:
 3. npm install
 4. npm run build
 5. cd cordova_app
-6. 
+6. cordova prepare
+6. cordova run [browser | android]
+
+
